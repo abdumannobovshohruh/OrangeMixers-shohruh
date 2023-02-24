@@ -594,6 +594,16 @@ height: 400px;
     text-align: center;
     color: #FFFFFF;
 }
+.eco {
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    font-family: 'PT Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 13px;
+    color: #BEBEBE;
+}
 }
 /* =============================================== */
 
